@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import WishlistList from './wishlists/WishlistList';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <WishlistList />
   </React.StrictMode>,
   document.getElementById('root')
 );
