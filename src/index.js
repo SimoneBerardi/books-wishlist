@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Homepage from './homepage/Homepage';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import WishlistList from './wishlists/WishlistList';
 
 ReactDOM.render(
   <React.StrictMode>
-    <WishlistList />
+    <Homepage />
   </React.StrictMode>,
   document.getElementById('root')
 );

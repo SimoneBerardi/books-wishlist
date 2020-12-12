@@ -1,0 +1,1 @@
+//TODO - mostra dettagli libro in lettura oppure scrittura
